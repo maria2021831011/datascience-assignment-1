@@ -1,0 +1,295 @@
+[2025-11-29 18:10:22,667] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 18:10:22,668] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 18:12:16,185] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 18:12:16,187] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 18:14:51,840] root - INFO - 
+[2025-11-29 18:15:02,704] root - INFO - 
+[2025-11-29 18:16:38,582] root - INFO - 
+[2025-11-29 18:16:45,897] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:16:52,688] root - INFO - 
+[2025-11-29 18:18:28,414] root - INFO - 
+[2025-11-29 18:18:36,417] root - INFO - 
+[2025-11-29 18:19:37,549] root - INFO - 
+[2025-11-29 18:19:44,102] root - INFO - 
+[2025-11-29 18:21:07,790] root - INFO - User asked for AI response
+[2025-11-29 18:21:58,178] root - INFO - User asked for AI response
+[2025-11-29 18:22:00,899] root - INFO - 
+[2025-11-29 18:24:06,094] root - INFO - 
+[2025-11-29 18:24:12,699] root - INFO - 
+[2025-11-29 18:24:20,888] root - INFO - 
+[2025-11-29 18:24:41,088] root - INFO - User asked for AI response
+[2025-11-29 18:26:36,053] root - INFO - User asked for AI response
+[2025-11-29 18:28:10,580] root - INFO - User asked for AI response
+[2025-11-29 18:28:59,413] root - INFO - 
+[2025-11-29 18:29:05,044] root - INFO - 
+[2025-11-29 18:31:10,669] root - INFO - 
+[2025-11-29 18:38:10,028] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 18:38:10,028] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 18:38:43,191] root - INFO - 
+[2025-11-29 18:40:40,519] root - INFO - 
+[2025-11-29 18:41:12,943] root - ERROR - Music error: [WinError 3] The system cannot find the path specified: 'C:\\Users\\Asus\\OneDrive\\Documents\\inception\\DATA-SCIENCE\\Assignment_04\\music'
+[2025-11-29 18:41:46,368] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:41:56,810] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:42:28,370] root - INFO - User asked for AI response
+[2025-11-29 18:43:20,994] root - INFO - 
+[2025-11-29 18:43:32,318] root - INFO - User asked for AI response
+[2025-11-29 18:44:07,082] root - INFO - 
+[2025-11-29 18:44:21,499] root - INFO - User asked for AI response
+[2025-11-29 18:44:48,245] root - INFO - 
+[2025-11-29 18:45:07,578] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:45:52,793] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 18:45:52,794] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 18:46:39,533] root - INFO - Playing music: groovy-vibe-427121.mp3
+[2025-11-29 18:46:47,270] root - INFO - 
+[2025-11-29 18:47:51,020] root - INFO - 
+[2025-11-29 18:47:55,117] root - INFO - 
+[2025-11-29 18:47:58,604] root - INFO - 
+[2025-11-29 18:48:04,955] root - INFO - 
+[2025-11-29 18:48:42,402] root - INFO - 
+[2025-11-29 18:48:55,746] root - INFO - 
+[2025-11-29 18:49:22,155] root - INFO - 
+[2025-11-29 18:49:26,771] root - INFO - 
+[2025-11-29 18:49:32,933] root - INFO - 
+[2025-11-29 18:49:42,153] root - INFO - 
+[2025-11-29 18:50:29,704] root - INFO - 
+[2025-11-29 18:50:34,817] root - INFO - 
+[2025-11-29 18:51:04,903] root - INFO - 
+[2025-11-29 18:51:51,051] root - INFO - 
+[2025-11-29 18:52:16,554] root - INFO - 
+[2025-11-29 18:52:27,866] root - INFO - 
+[2025-11-29 18:52:33,757] root - INFO - 
+[2025-11-29 18:52:42,002] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 18:52:42,003] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 18:53:01,706] root - INFO - 
+[2025-11-29 18:53:06,558] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:53:28,125] root - INFO - 
+[2025-11-29 18:53:54,416] root - INFO - 
+[2025-11-29 18:54:00,390] root - INFO - 
+[2025-11-29 18:54:08,428] root - INFO - 
+[2025-11-29 18:54:14,313] root - INFO - 
+[2025-11-29 18:54:47,215] root - INFO - 
+[2025-11-29 18:54:53,938] root - INFO - 
+[2025-11-29 18:55:03,870] root - INFO - 
+[2025-11-29 18:55:28,700] root - INFO - 
+[2025-11-29 18:55:35,594] root - INFO - 
+[2025-11-29 18:55:43,427] root - INFO - 
+[2025-11-29 18:55:52,670] root - INFO - 
+[2025-11-29 18:56:11,865] root - INFO - 
+[2025-11-29 18:57:26,375] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:58:02,528] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:58:34,408] root - INFO - 
+[2025-11-29 18:58:48,503] root - INFO - User asked for AI response
+[2025-11-29 18:59:02,246] root - ERROR - Screenshot error: PyAutoGUI was unable to import pyscreeze. (This is likely because you're running a version of Python that Pillow (which pyscreeze depends on) doesn't support currently.) Please install this module to enable the function you tried to call.
+[2025-11-29 18:59:10,141] root - INFO - 
+[2025-11-29 18:59:41,712] root - INFO - 
+[2025-11-29 18:59:50,839] root - INFO - 
+[2025-11-29 19:04:26,834] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 19:04:26,834] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 19:05:51,751] root - INFO - 
+[2025-11-29 19:07:13,047] root - INFO - Screenshot saved: C:\Users\Asus\OneDrive\Documents\datascience_assignment\Assignment_04\screenshots\screenshot_20251129_190701.png
+[2025-11-29 19:07:54,275] root - INFO - User asked for AI response
+[2025-11-29 19:07:58,008] root - INFO - 
+[2025-11-29 19:09:32,015] root - INFO - 
+[2025-11-29 19:09:58,021] root - INFO - 
+[2025-11-29 19:10:07,942] root - INFO - 
+[2025-11-29 19:10:15,570] root - INFO - 
+[2025-11-29 19:10:45,946] root - INFO - 
+[2025-11-29 19:12:09,451] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 19:12:09,452] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 19:12:27,632] root - INFO - User asked for AI response
+[2025-11-29 19:12:40,837] root - INFO - User asked about assistant's creator.
+[2025-11-29 19:12:45,049] root - INFO - User asked about assistant's creator.
+[2025-11-29 19:12:49,430] root - INFO - 
+[2025-11-29 19:12:55,061] root - INFO - 
+[2025-11-29 19:13:17,691] root - INFO - 
+[2025-11-29 19:13:22,986] root - INFO - 
+[2025-11-29 19:13:23,318] root - INFO - 
+[2025-11-29 19:13:30,293] root - INFO - 
+[2025-11-29 19:13:51,385] root - INFO - 
+[2025-11-29 19:14:00,392] root - INFO - 
+[2025-11-29 19:14:19,114] root - INFO - 
+[2025-11-29 19:14:25,133] root - INFO - 
+[2025-11-29 19:14:29,423] root - INFO - 
+[2025-11-29 19:15:27,403] root - INFO - 
+[2025-11-29 19:15:31,732] root - INFO - 
+[2025-11-29 19:15:59,280] root - INFO - 
+[2025-11-29 19:16:31,018] root - INFO - User exited the program.
+[2025-11-29 19:16:39,174] root - INFO - 
+[2025-11-29 19:28:33,754] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 19:28:33,755] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 19:29:01,803] root - INFO - User asked for AI response
+[2025-11-29 19:29:12,949] root - INFO - User asked about assistant's creator.
+[2025-11-29 19:29:33,662] root - INFO - User asked for AI response
+[2025-11-29 19:29:56,869] root - INFO - User asked for AI response
+[2025-11-29 19:30:02,324] root - INFO - User asked for assistant's name
+[2025-11-29 19:30:12,662] root - INFO - User asked for AI response
+[2025-11-29 19:31:09,500] root - INFO - 
+[2025-11-29 19:32:04,345] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 19:32:04,346] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 19:32:46,058] root - INFO - User asked for assistant's name
+[2025-11-29 19:32:58,559] root - INFO - User asked for AI response
+[2025-11-29 19:33:28,893] root - INFO - User asked about assistant's well-being.
+[2025-11-29 19:33:43,824] root - INFO - User asked for AI response
+[2025-11-29 19:33:54,438] root - INFO - User asked about assistant's creator.
+[2025-11-29 19:34:39,153] root - INFO - User asked for AI response
+[2025-11-29 19:35:06,704] root - INFO - User asked for AI response
+[2025-11-29 19:35:37,262] root - INFO - 
+[2025-11-29 19:39:10,954] root - INFO - 
+[2025-11-29 19:39:26,921] root - INFO - 
+[2025-11-29 19:40:39,566] root - INFO - 
+[2025-11-29 19:42:10,339] root - INFO - Playing music: hype-drill-music-438398.mp3
+[2025-11-29 19:42:15,086] root - INFO - 
+[2025-11-29 19:42:24,240] root - INFO - 
+[2025-11-29 19:42:33,534] root - INFO - 
+[2025-11-29 19:42:46,199] root - INFO - 
+[2025-11-29 19:42:51,992] root - INFO - 
+[2025-11-29 19:43:51,720] root - INFO - 
+[2025-11-29 19:44:35,527] root - INFO - 
+[2025-11-29 19:44:51,944] root - INFO - User asked for AI response
+[2025-11-29 19:46:11,278] root - INFO - User asked for AI response
+[2025-11-29 19:47:50,732] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 19:47:50,733] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 19:48:13,944] root - INFO - 
+[2025-11-29 19:49:45,048] root - INFO - 
+[2025-11-29 19:52:05,664] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 19:52:05,664] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 19:52:13,198] root - INFO - 
+[2025-11-29 19:52:19,565] root - INFO - 
+[2025-11-29 19:55:20,895] root - INFO - 
+[2025-11-29 19:56:11,725] root - INFO - 
+[2025-11-29 19:56:19,917] root - INFO - 
+[2025-11-29 19:56:26,790] root - INFO - 
+[2025-11-29 19:56:33,351] root - INFO - 
+[2025-11-29 19:56:37,745] root - INFO - 
+[2025-11-29 19:56:37,898] root - INFO - 
+[2025-11-29 19:57:41,718] root - INFO - 
+[2025-11-29 19:58:48,670] root - INFO - 
+[2025-11-29 19:58:49,087] root - INFO - User asked for AI response
+[2025-11-29 19:58:52,262] root - INFO - 
+[2025-11-29 19:58:52,799] root - INFO - 
+[2025-11-29 19:58:57,117] root - INFO - 
+[2025-11-29 19:58:57,290] root - INFO - 
+[2025-11-29 19:59:03,278] root - INFO - 
+[2025-11-29 19:59:10,216] root - INFO - 
+[2025-11-29 19:59:24,699] root - INFO - 
+[2025-11-29 19:59:30,738] root - INFO - 
+[2025-11-29 19:59:35,679] root - INFO - 
+[2025-11-29 19:59:40,532] root - INFO - 
+[2025-11-29 19:59:45,260] root - INFO - 
+[2025-11-29 19:59:50,637] root - INFO - 
+[2025-11-29 20:00:00,771] root - INFO - 
+[2025-11-29 20:00:08,831] root - INFO - 
+[2025-11-29 20:00:16,059] root - INFO - User asked for AI response
+[2025-11-29 20:00:23,861] root - INFO - User asked for AI response
+[2025-11-29 20:00:28,636] root - INFO - User exited the program.
+[2025-11-29 20:00:51,869] root - INFO - 
+[2025-11-29 20:01:39,273] root - INFO - 
+[2025-11-29 20:02:04,899] root - INFO - 
+[2025-11-29 20:06:18,548] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 20:06:18,548] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 20:07:01,287] root - INFO - User asked for assistant's name
+[2025-11-29 20:07:31,982] root - INFO - User asked about assistant's well-being.
+[2025-11-29 20:09:08,814] root - INFO - User asked about assistant's creator.
+[2025-11-29 20:10:56,358] root - INFO - 
+[2025-11-29 20:12:28,765] root - INFO - 
+[2025-11-29 20:13:37,063] root - INFO - Screenshot saved: C:\Users\Asus\OneDrive\Documents\datascience_assignment\Assignment_04\screenshots\screenshot_20251129_201325.png
+[2025-11-29 20:14:16,192] root - INFO - User asked for AI response
+[2025-11-29 20:16:02,298] root - INFO - User asked for AI response
+[2025-11-29 20:16:13,677] root - INFO - User asked for AI response
+[2025-11-29 20:19:36,212] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-29 20:19:36,213] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-29 20:20:15,820] root - INFO - User asked for AI response
+[2025-11-29 20:20:32,143] root - INFO - User asked for AI response
+[2025-11-29 20:20:49,187] root - INFO - User asked for AI response
+[2025-11-29 20:20:55,170] root - INFO - 
+[2025-11-29 20:21:27,580] root - INFO - User asked for AI response
+[2025-11-29 20:22:07,216] root - INFO - User asked for AI response
+[2025-11-29 20:22:18,430] root - INFO - Playing music: groovy-vibe-427121.mp3
+[2025-11-29 20:22:37,425] root - INFO - 
+[2025-11-29 20:22:48,610] root - INFO - User exited the program.
+[2025-11-30 07:11:07,463] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 07:11:07,464] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 07:11:32,473] root - INFO - Note saved: notes\note_20251130_071128.txt
+[2025-11-30 07:11:47,995] root - INFO - User asked for AI response
+[2025-11-30 07:12:02,163] root - INFO - User asked for AI response
+[2025-11-30 07:12:13,293] root - INFO - User asked for AI response
+[2025-11-30 07:12:55,025] root - INFO - 
+[2025-11-30 07:13:13,469] root - INFO - User asked for AI response
+[2025-11-30 07:13:25,355] root - INFO - User asked for AI response
+[2025-11-30 07:14:14,179] root - INFO - Screenshot saved: C:\Users\Asus\OneDrive\Documents\datascience_assignment\Assignment_04\screenshots\screenshot_20251130_071402.png
+[2025-11-30 07:14:24,055] root - INFO - User exited the program.
+[2025-11-30 07:14:53,947] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 07:14:53,948] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 07:15:16,318] root - INFO - Launched application: browser
+[2025-11-30 07:15:27,616] root - INFO - Launched application: chrome
+[2025-11-30 07:15:31,962] root - INFO - 
+[2025-11-30 07:16:02,942] root - INFO - User asked for AI response
+[2025-11-30 07:16:27,615] root - INFO - 
+[2025-11-30 07:16:35,665] root - INFO - 
+[2025-11-30 07:29:46,839] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 07:29:46,840] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 07:32:12,914] root - INFO - 
+[2025-11-30 07:32:16,799] root - INFO - 
+[2025-11-30 07:32:20,828] root - INFO - 
+[2025-11-30 07:33:46,514] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 07:33:46,515] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 07:34:07,645] root - ERROR - Weather API error: name 'get_weather_fallback' is not defined
+[2025-11-30 07:39:09,873] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 07:39:09,874] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 07:39:43,585] root - INFO - 
+[2025-11-30 07:40:57,766] root - INFO - 
+[2025-11-30 07:41:02,877] root - INFO - 
+[2025-11-30 07:41:09,814] root - INFO - 
+[2025-11-30 07:41:15,657] root - INFO - 
+[2025-11-30 07:41:18,976] root - INFO - 
+[2025-11-30 07:41:22,662] root - INFO - 
+[2025-11-30 07:42:20,058] root - INFO - 
+[2025-11-30 07:42:31,594] root - INFO - User exited the program.
+[2025-11-30 07:45:33,340] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 07:45:33,341] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 07:45:56,240] root - INFO - User asked for assistant's name
+[2025-11-30 07:46:14,023] root - INFO - User asked for AI response
+[2025-11-30 07:46:23,960] root - INFO - User asked about assistant's well-being.
+[2025-11-30 07:46:34,498] root - INFO - User asked for AI response
+[2025-11-30 07:46:55,594] root - INFO - User asked about assistant's creator.
+[2025-11-30 07:47:08,324] root - INFO - User asked for AI response
+[2025-11-30 07:47:37,769] root - INFO - User asked for AI response
+[2025-11-30 07:47:53,727] root - INFO - User asked for AI response
+[2025-11-30 07:49:38,370] root - INFO - 
+[2025-11-30 07:51:05,608] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 07:51:05,609] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 07:51:28,675] root - INFO - Launched application: calculator
+[2025-11-30 07:51:42,115] root - INFO - Launched application: notepad
+[2025-11-30 07:51:45,920] root - INFO - 
+[2025-11-30 07:52:27,173] root - INFO - 
+[2025-11-30 07:52:33,728] root - INFO - 
+[2025-11-30 07:52:44,222] root - INFO - User asked for AI response
+[2025-11-30 07:52:56,393] root - INFO - Launched application: task manager
+[2025-11-30 07:53:03,437] root - INFO - 
+[2025-11-30 07:53:16,585] root - INFO - Launched application: file explorer
+[2025-11-30 07:53:25,487] root - INFO - 
+[2025-11-30 07:53:42,262] root - INFO - Screenshot saved: C:\Users\Asus\OneDrive\Documents\datascience_assignment\Assignment_04\screenshots\screenshot_20251130_075330.png
+[2025-11-30 07:54:14,859] root - INFO - Note saved: notes\note_20251130_075411.txt
+[2025-11-30 07:55:29,447] root - INFO - User asked for AI response
+[2025-11-30 07:55:38,146] root - INFO - User asked for AI response
+[2025-11-30 07:55:51,322] root - INFO - User asked for AI response
+[2025-11-30 07:55:58,800] root - INFO - User asked for AI response
+[2025-11-30 07:57:32,642] root - INFO - 
+[2025-11-30 07:57:49,741] root - INFO - 
+[2025-11-30 07:57:54,456] root - INFO - 
+[2025-11-30 07:58:11,124] root - INFO - 
+[2025-11-30 07:58:15,547] root - INFO - 
+[2025-11-30 07:58:22,501] root - INFO - 
+[2025-11-30 07:58:52,158] root - INFO - User asked for AI response
+[2025-11-30 07:58:55,032] root - INFO - 
+[2025-11-30 07:59:29,144] root - INFO - User asked about assistant's well-being.
+[2025-11-30 07:59:42,050] root - INFO - Playing music: deep-abstract-ambient_snowcap-401656.mp3
+[2025-11-30 08:00:18,197] root - INFO - User exited the program.
+[2025-11-30 10:16:53,078] comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\Asus\\AppData\\Roaming\\Python\\Python313\\site-packages\\comtypes\\gen\\__init__.py'>
+[2025-11-30 10:16:53,079] comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\Asus\AppData\Roaming\Python\Python313\site-packages\comtypes\gen'
+[2025-11-30 10:17:26,517] root - INFO - User asked for AI response
+[2025-11-30 10:17:38,471] root - INFO - User asked about assistant's creator.
+[2025-11-30 10:17:50,062] root - INFO - User asked for AI response
+[2025-11-30 10:18:24,889] root - INFO - User asked for AI response
+[2025-11-30 10:18:32,221] root - INFO - Launched application: notepad
+[2025-11-30 10:18:57,181] root - INFO - User asked for AI response
