@@ -35,7 +35,7 @@ bash
 
 # Clone repository
 
-git clone https://github.com/maria2021831011/datascience-assignment-1.git
+git clone https://github.com/maria2021831011/datascience-assignment-1/tree/main/Assignment_05/jarvis_assistant
 cd jarvis-ai
 
 # Install dependencies
